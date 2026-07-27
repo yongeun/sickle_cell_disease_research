@@ -1,53 +1,62 @@
-# Letter of Intent
+# REACH Awards — Letter of Intent (mapped to the official template)
 
-**Program:** Bayer/AAFP REACH Awards — CKM Research Concepts
-**Project title:** *Prevent, Slow, or Reverse? GLP-1 Receptor Agonists and the Trajectory of Early Cardiovascular–Kidney–Metabolic Syndrome in a Nationally Diverse Cohort*
+This file mirrors the official **REACH Awards LOI proposal form** (`REACH_LOI_proposal_filled.docx` in this folder), which has the research fields and applicant credentials filled in. Fields marked **[ACTION]** still need contact/administrative details. Email the completed single Word/PDF to **REACHAwards@porterhousemedical.com** by **August 16, 2026**.
 
-**Principal Investigator:** [Name, credentials] · [Department of Family Medicine, Institution]
-**Co-investigators:** [biostatistician] · [cardiometabolic clinician] · [*All of Us*-credentialed analyst]
-**Date:** [Month] 2026 · **Amount requested:** up to $20,000
+> Form rules: title ≤100 characters incl. spaces · description ≤500 words · 1-year project · max award **$20,000** · applicant bio ≤2 pages · mentor bio optional.
 
----
+**Eligibility note:** An **endocrinologist is eligible.** REACH eligibility covers "healthcare professionals, clinical researchers, fellows, scientists, and epidemiologists in the U.S. whose work focuses on CKM health" — the ad features family physicians, but the written eligibility is broader. The submitting entity must not be for-profit (academic/hospital affiliation is fine).
 
-## The question and why it matters now
-
-Cardiovascular–Kidney–Metabolic (CKM) syndrome organizes obesity, type 2 diabetes, chronic kidney disease, and cardiovascular disease into one staged continuum, and the 2026 AHA/ACC/ADA/ASN guideline sets an explicit clinical goal for it: keep patients from advancing through stages 0–4 and, wherever possible, move them back down. Family physicians own the early, still-reversible end of that continuum — the stage 1 and 2 patients who have excess adiposity and metabolic risk but not yet established cardiovascular or kidney disease — which is precisely where the evidence is thinnest.
-
-GLP-1 receptor agonists are the first drug class that acts on every axis of CKM at once, lowering weight, glucose, blood pressure, and cardiovascular and kidney risk together. Their landmark trials, however, answer a different question than the one primary care asks: SELECT, FLOW, and SUMMIT enrolled patients already at CKM stages 3–4 and counted heart attacks, kidney events, and deaths, leaving unanswered whether starting a GLP-1 agonist earlier actually **prevents progression, slows it, or produces regression** to a lower stage. That question has become urgent rather than academic, because coverage is expanding to exactly the early-stage population in which it has never been studied: the Medicare GLP-1 Bridge begins July 1, 2026, offering Wegovy to Medicare beneficiaries with obesity at a $50 monthly copay, and the Medicaid BALANCE Model extends GLP-1 access further still. Millions of stage 1–2 patients are about to start these medications for weight, and neither clinicians nor payers yet know what that does to the CKM trajectory these drugs are meant to bend.
-
-## Central hypothesis
-
-Among adults with early-stage CKM syndrome, initiating a GLP-1 receptor agonist is associated with slower progression and more frequent regression across CKM stages than clinically comparable non-initiation, and both the uptake and the apparent benefit of these agents differ across the populations that primary care serves.
-
-## Specific aims
-
-1. **Establish the cohort and confirm power.** Operationalize CKM stages 0–4 from electronic health records, laboratory values, and physical measurements in the *All of Us* Research Program — building on published *All of Us* CKM-staging and ICD-10-CM frameworks — and enumerate new GLP-1 agonist initiators at each baseline stage to confirm an analyzable stage 1–2 sample.
-
-2. **Estimate the effect on CKM trajectory (primary aim).** In an active-comparator, new-user target-trial emulation, estimate the association between GLP-1 agonist initiation and CKM-stage transition — progression to a higher stage and regression to a lower one — among stage 1–2 adults, using propensity-based adjustment, landmarking, and negative-control outcomes to guard against confounding and immortal-time bias.
-
-3. **Map who is reached and who benefits.** Test whether GLP-1 agonist uptake and estimated effect on stage transition vary by race and ethnicity, sex, income, insurance, and rurality, so that the findings speak to equity of access as coverage expands, not only to average efficacy.
-
-## Approach and why *All of Us* fits
-
-The *All of Us* Research Program links electronic health records, medication records, laboratory results, physical measurements, and detailed social-determinant surveys for more than 400,000 participants, and it was assembled deliberately to over-represent communities that clinical trials have historically excluded. That design is the study's methodological strength as well as its subject: a trajectory estimated in a cohort this demographically and geographically broad is far more defensible as a guide to the general primary-care population than one drawn from a selected trial sample, which is the generalizability argument the field most needs as GLP-1 use moves from specialty clinics into everyday practice.
-
-We will emulate a target trial with a new-user, active-comparator design, a defined grace period, and propensity-score overlap weighting, and we will pre-specify sensitivity analyses for medication adherence, unmeasured confounding, and the follow-up limits of current data. The analysis plan will be registered and the code shared, and because the data are observational, results will be reported as rigorously derived associations that motivate confirmatory work rather than as causal proof.
-
-## Fit with the REACH Awards: innovation, approach, and impact
-
-The proposal maps directly onto the three criteria by which the REACH Grants Review Committee evaluates applications. Its **innovation** lies in treating CKM-stage transition — prevention, slowed progression, and regression — as the outcome itself, rather than the downstream events that existing trials already measured, and in doing so at the early stages those trials never enrolled. Its **quality of approach** rests on a disciplined active-comparator, new-user target-trial emulation in a data resource where CKM staging has already been validated, with pre-registered methods to contain the confounding that observational data invite. Its **anticipated impact on the cardiorenal field** is immediate and practical: as the Medicare GLP-1 Bridge and Medicaid coverage bring these agents to millions of early-stage patients, a signal that treating sooner slows progression or drives regression would support acting earlier in prevention, while a null or attenuated signal would sharpen stewardship and direct scarce access to where it helps most. Because the question sits squarely in primary care and the answer comes from a nationally diverse cohort, the findings are usable at the point of care and form the pilot foundation for a larger AHA or NIH proposal.
-
-## Feasibility, timeline, and budget
-
-Because the work draws on existing de-identified data, a small team can complete it within roughly twelve months on a budget matched to a ≤$20,000 award — the majority for analyst and biostatistician effort and *All of Us* Workbench compute credits, with the remainder for principal-investigator effort and dissemination through one manuscript and one AAFP or AHA presentation. A detailed budget and the IRB/data-use determination will accompany the full proposal.
-
-| Months | Milestone |
-|--------|-----------|
-| 1–3 | Workbench onboarding; CKM-staging pipeline; feasibility and power count (Aim 1) |
-| 4–8 | Cohort construction and primary target-trial emulation (Aim 2) |
-| 8–11 | Equity and heterogeneity analysis (Aim 3); sensitivity analyses |
-| 11–12 | Manuscript, conference abstract, and public code release |
+**Team:** Applicant/PI — **Dr. Rhonda K. Trousdale, MD** (endocrinologist; Chief of Endocrinology & Director of Research, NYC Health + Hospitals/Harlem; 10-year Multi-PI of the NYC *All of Us* Consortium). Collaborator — **Dr. Yong Eun, MD** (internal medicine; target-trial-emulation & *All of Us* methods).
 
 ---
 
-*Contact:* [PI name] · [email] · [phone] · [institution]
+## 1. Title of proposed project (≤100 characters)
+
+**GLP-1 Agonists and CKM Syndrome: Preventing Progression and Promoting Regression in All of Us** *(93 characters.)*
+
+## 2–5. Applicant / institution / finance officer / signing official
+
+Filled from biosketch: **name** (Rhonda K. Trousdale, MD), **qualifications** (MD 06/1999; Diplomate, Endocrinology, Diabetes & Metabolism, ABIM, 2005), **years of practice** (20+), **institution** (NYC Health + Hospitals/Harlem). **[ACTION]** add mailing address, telephone/fax, email; and the finance officer and organizational signing official (names, titles, contact). *Public address on file: 506 Lenox Avenue, New York, NY 10037 — confirm before use.*
+
+## Project duration (1 year) — **[ACTION]**
+
+Start date **[choose]** · End date **[start + 12 months]**.
+
+## Description (≤500 words — 485 used)
+
+**a) Project purpose:** We will conduct a retrospective target-trial-emulation study in the NIH *All of Us* Research Program to determine whether initiating a glucagon-like peptide-1 receptor agonist (GLP-1 RA) alters the trajectory of cardiovascular-kidney-metabolic (CKM) syndrome — preventing progression, slowing it, or producing regression to a lower stage — among adults with early-stage (CKM 1–2) disease.
+
+**b) Rationale:** CKM syndrome places obesity, diabetes, kidney disease, and cardiovascular disease on one staged continuum, and the 2026 AHA/ACC/ADA/ASN guideline makes preventing progression and promoting regression the explicit goal of care. The pivotal GLP-1 RA trials (SELECT, FLOW, SUMMIT) enrolled advanced-stage patients and counted cardiovascular and kidney events, leaving the early stages that family physicians manage unstudied. As the Medicare GLP-1 Bridge and expanding Medicaid coverage bring these drugs to millions of adults with obesity, real-world evidence on whether earlier treatment changes disease trajectory is urgently needed.
+
+**c) Objectives:** (1) operationalize CKM stages 0–4 and confirm analyzable sample size; (2) estimate the association between GLP-1 RA initiation and CKM-stage progression and regression among stage 1–2 adults; (3) test whether uptake and benefit differ by race/ethnicity, sex, income, insurance, and rurality.
+
+**d) Summary of methods:** Using *All of Us* electronic health records, laboratory values, physical measurements, and medication records, we will apply published CKM-staging algorithms and an active-comparator, new-user target-trial emulation with propensity-score overlap weighting, landmarking, negative-control outcomes, and pre-registered sensitivity analyses for adherence and residual confounding.
+
+**e) Scope of project:** *All of Us* holds linked EHR data on more than 400,000 participants; prior work staged roughly a quarter with advanced CKM, leaving a large early-stage population. We anticipate several thousand stage 1–2 GLP-1 RA initiators, with exact counts and statistical power confirmed in Objective 1.
+
+**f) Expected outcomes and impact:** This study will yield the first real-world estimates of whether early GLP-1 RA treatment bends the CKM trajectory. A protective signal would support earlier initiation for prevention in primary care; a null or attenuated signal would guide stewardship and equitable allocation as coverage expands — either result directly informs CKM care.
+
+**g) Plans to share information:** We will publish one peer-reviewed manuscript, present at an AAFP or AHA scientific meeting, and release reusable analysis code to the *All of Us* researcher community of thousands of registered investigators.
+
+**h) Collaboration:** Dr. Yong Eun, an internal medicine physician at NYC Health + Hospitals/Harlem with extensive target-trial-emulation and propensity-score-matching experience in the *All of Us* program, will co-lead the analysis as collaborator; Dr. Marie S. Thearle provides additional cardiometabolic content expertise.
+
+**i) Capacity:** The applicant, Dr. Rhonda K. Trousdale, is a board-certified endocrinologist, Chief of Endocrinology and Director of Research at NYC Health + Hospitals/Harlem, and a ten-year Multi-PI of the New York City *All of Us* Research Consortium with hands-on Researcher Workbench experience building cohorts, including a prior metabolic-syndrome use case. Because all data are de-identified and already available through the Workbench, the project requires no participant recruitment and no external data-use agreements.
+
+## Percentage of time dedicated (applicant) — **[ACTION]**
+
+Suggested **10–15%** (secondary-data analysis).
+
+## Requested funding (`$##,###.00`, max $20,000) — **[ACTION]**
+
+Build a fair-market budget (~12-month secondary-data study: analyst/biostatistician effort + *All of Us* Workbench compute credits, PI effort, dissemination). Illustrative: **$18,000.00** ("Eighteen thousand US dollars").
+
+## Applicant biographical information (≤2 pages) — filled
+
+Full name, position title, the seven-row education/training table (Indiana University → Columbia Presbyterian fellowships), nine positions & honors, and six selected publications are populated in the `.docx` from Dr. Trousdale's NIH biosketch.
+
+---
+
+### What's filled vs. what you add
+- **Filled:** title; full a)–i) description (485/500 words); applicant name, qualifications, dates, years of practice, institution; full applicant biographical section.
+- **[ACTION] you add:** mailing address, phone/fax, email; finance officer and signing official; project start/end dates; % time; funding figure.
+- **Before sending:** keep the title ≤100 characters and the description ≤500 words after any edits; paste any figures directly into the single Word/PDF (the administrator accepts only one file). *Mentor bio is optional and left blank (the PI is senior; Dr. Eun is a collaborator, not a mentor).*
