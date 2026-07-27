@@ -1,46 +1,50 @@
 # REACH Awards — Letter of Intent (mapped to the official template)
 
-This file mirrors the official **REACH Awards LOI proposal form** (`REACH_LOI_proposal_filled.docx` in this folder), which has the research fields and applicant credentials filled in. Fields marked **[ACTION]** still need contact/administrative details. Email the completed single Word/PDF to **REACHAwards@porterhousemedical.com** by **August 16, 2026**.
+This mirrors the official **REACH Awards LOI proposal form** (`REACH_LOI_proposal_filled.docx`), which has the research fields and applicant credentials filled in. Fields marked **[ACTION]** still need administrative details. Email the single Word/PDF to **REACHAwards@porterhousemedical.com** by **August 16, 2026**.
 
 > Form rules: title ≤100 characters incl. spaces · description ≤500 words · 1-year project · max award **$20,000** · applicant bio ≤2 pages · mentor bio optional.
+>
+> **Verified:** title **95/100** characters · description **494/500** words · all nine headings a)–i) present and in order.
 
-**Eligibility note:** An **endocrinologist is eligible.** REACH eligibility covers "healthcare professionals, clinical researchers, fellows, scientists, and epidemiologists in the U.S. whose work focuses on CKM health" — the ad features family physicians, but the written eligibility is broader. The submitting entity must not be for-profit (academic/hospital affiliation is fine).
+**Eligibility:** An **endocrinologist is eligible** — REACH covers "healthcare professionals, clinical researchers, fellows, scientists, and epidemiologists in the U.S. whose work focuses on CKM health." The marketing features family physicians, but written eligibility is broader. The submitting entity must not be for-profit.
 
-**Team:** Applicant/PI — **Dr. Rhonda K. Trousdale, MD** (endocrinologist; Chief of Endocrinology & Director of Research, NYC Health + Hospitals/Harlem; 10-year Multi-PI of the NYC *All of Us* Consortium). Collaborator — **Dr. Yong Eun, MD** (internal medicine; target-trial-emulation & *All of Us* methods).
+**Team.** Applicant/PI — **Dr. Rhonda K. Trousdale, MD** (endocrinologist; Chief of Endocrinology & Director of Research, NYC Health + Hospitals/Harlem; ~10-year Multi-PI, NYC *All of Us* Consortium). Collaborator — **Dr. Yong Eun, MD** (Attending Physician, NYC H+H/Harlem; target-trial emulation & propensity-score methods; first author, *Neurology* 2026 semaglutide pharmacoepidemiology paper with Dr. Trousdale).
+
+This version was revised through a three-phase multi-agent review — see `multi-agent-review-record.md`. Committee re-score improved from **16/27 to 21/27** (innovation 5→7, approach 5→7, impact 6→7).
 
 ---
 
 ## 1. Title of proposed project (≤100 characters)
 
-**GLP-1 Agonists and CKM Syndrome: Preventing Progression and Promoting Regression in All of Us** *(93 characters.)*
+**CKM Stage Transition, Not Events: Early GLP-1 Therapy in Stages 1-2 for Primary Care Prevention** *(95 characters.)*
 
 ## 2–5. Applicant / institution / finance officer / signing official
 
-Filled from biosketch: **name** (Rhonda K. Trousdale, MD), **qualifications** (MD 06/1999; Diplomate, Endocrinology, Diabetes & Metabolism, ABIM, 2005), **years of practice** (20+), **institution** (NYC Health + Hospitals/Harlem). **[ACTION]** add mailing address, telephone/fax, email; and the finance officer and organizational signing official (names, titles, contact). *Public address on file: 506 Lenox Avenue, New York, NY 10037 — confirm before use.*
+Filled from biosketch: **name** (Rhonda K. Trousdale, MD), **qualifications** (MD 06/1999; Diplomate, Endocrinology, Diabetes & Metabolism, ABIM, 2005), **years of practice** (20+), **institution** (NYC Health + Hospitals/Harlem). **[ACTION]** add mailing address, telephone/fax, email; finance officer; organizational signing official. *Public address on file: 506 Lenox Avenue, New York, NY 10037 — confirm before use.*
 
 ## Project duration (1 year) — **[ACTION]**
 
 Start date **[choose]** · End date **[start + 12 months]**.
 
-## Description (≤500 words — 485 used)
+## Description (494/500 words)
 
-**a) Project purpose:** We will conduct a retrospective target-trial-emulation study in the NIH *All of Us* Research Program to determine whether initiating a glucagon-like peptide-1 receptor agonist (GLP-1 RA) alters the trajectory of cardiovascular-kidney-metabolic (CKM) syndrome — preventing progression, slowing it, or producing regression to a lower stage — among adults with early-stage (CKM 1–2) disease.
+**a) Project purpose:** Using NIH All of Us data, we will estimate whether initiating a GLP-1 receptor agonist (GLP-1 RA) is associated with movement to a lower cardiovascular-kidney-metabolic (CKM) stage, or slower progression, in adults at CKM stage 1-2: stage transition, an endpoint no pivotal GLP-1 RA trial measured.
 
-**b) Rationale:** CKM syndrome places obesity, diabetes, kidney disease, and cardiovascular disease on one staged continuum, and the 2026 AHA/ACC/ADA/ASN guideline makes preventing progression and promoting regression the explicit goal of care. The pivotal GLP-1 RA trials (SELECT, FLOW, SUMMIT) enrolled advanced-stage patients and counted cardiovascular and kidney events, leaving the early stages that family physicians manage unstudied. As the Medicare GLP-1 Bridge and expanding Medicaid coverage bring these drugs to millions of adults with obesity, real-world evidence on whether earlier treatment changes disease trajectory is urgently needed.
+**b) Rationale:** The 2026 AHA/ACC/ADA/ASN guideline makes preventing progression and promoting regression the goal of CKM care, yet SELECT, FLOW and SUMMIT enrolled stage 3-4 patients counting events; ongoing DASH-CKMH targets sex-based heterogeneity. Early stages in primary care remain unstudied. Since May and July 2026, Medicaid's BALANCE Model and Medicare's GLP-1 Bridge have expanded access for mostly stage 1-2 adults, scaling prescribing ahead of evidence.
 
-**c) Objectives:** (1) operationalize CKM stages 0–4 and confirm analyzable sample size; (2) estimate the association between GLP-1 RA initiation and CKM-stage progression and regression among stage 1–2 adults; (3) test whether uptake and benefit differ by race/ethnicity, sex, income, insurance, and rurality.
+**c) Objectives:** (1) Extend cross-sectional CKM staging into a serial, time-updated stage variable and count initiators; (2) estimate GLP-1 RA initiation's association with stage progression and regression; (3) test pre-specified modification by race/ethnicity and insurance.
 
-**d) Summary of methods:** Using *All of Us* electronic health records, laboratory values, physical measurements, and medication records, we will apply published CKM-staging algorithms and an active-comparator, new-user target-trial emulation with propensity-score overlap weighting, landmarking, negative-control outcomes, and pre-registered sensitivity analyses for adherence and residual confounding.
+**d) Summary of methods:** Eligible: adults staged CKM 1-2 with baseline labs, no prior-year GLP-1 RA. Strategies: GLP-1 RA (tirzepatide included) versus DPP-4 inhibitor (no MACE benefit) in type 2 diabetes, otherwise versus non-incretin anti-obesity medication. Time zero: first fill; 90-day grace period, clone-censoring and censoring weights remove immortal time; propensity-score overlap weighting approximates randomized assignment, SGLT2 inhibitors time-varying. Re-staged six-monthly; progression is primary, regression a lower stage at two consecutive assessments on reversible components; stage 3 by PREVENT risk; death competes (multistate model). Observational intention-to-treat; per-protocol censoring 60-day gaps; E-values bound unmeasured confounding.
 
-**e) Scope of project:** *All of Us* holds linked EHR data on more than 400,000 participants; prior work staged roughly a quarter with advanced CKM, leaving a large early-stage population. We anticipate several thousand stage 1–2 GLP-1 RA initiators, with exact counts and statistical power confirmed in Objective 1.
+**e) Scope of project:** Two-thirds of staged All of Us participants fall at stages 1-2; from 400,000+ participants with linked records we draw initiators and comparators. We anticipate several thousand stage 2 and several hundred stage 1 initiators; stage 1 pools with stage 2 below 500. Records extend to about 2023, so we analyze earlier initiators; transitions accrue years before events.
 
-**f) Expected outcomes and impact:** This study will yield the first real-world estimates of whether early GLP-1 RA treatment bends the CKM trajectory. A protective signal would support earlier initiation for prevention in primary care; a null or attenuated signal would guide stewardship and equitable allocation as coverage expands — either result directly informs CKM care.
+**f) Expected outcomes and impact:** Family physicians gain stage-specific progression and regression rates. An association robust to E-values would justify a randomized trial of earlier initiation; a robust null would argue against earlier use ahead of trial evidence, prioritizing stages 3-4. Our cohort includes the Black, Hispanic and lower-income adults carrying the heaviest cardiorenal burden, whom trials under-enroll.
 
-**g) Plans to share information:** We will publish one peer-reviewed manuscript, present at an AAFP or AHA scientific meeting, and release reusable analysis code to the *All of Us* researcher community of thousands of registered investigators.
+**g) Plans to share information:** Audiences: family physicians and cardiorenal researchers. Abstracts at AAFP FMX and AHA Sessions (thousands of clinicians each); a practice brief; a one-page stage-transition chart; staging code released to thousands of All of Us investigators.
 
-**h) Collaboration:** Dr. Yong Eun, an internal medicine physician at NYC Health + Hospitals/Harlem with extensive target-trial-emulation and propensity-score-matching experience in the *All of Us* program, will co-lead the analysis as collaborator; Dr. Marie S. Thearle provides additional cardiometabolic content expertise.
+**h) Collaboration:** Dr. Yong Eun, Attending Physician at NYC H+H/Harlem, first author of our semaglutide pharmacoepidemiology paper in Neurology (2026), supports this project and will co-lead the analysis; Dr. Marie S. Thearle adds cardiometabolic expertise. Primary care colleagues will review deliverables.
 
-**i) Capacity:** The applicant, Dr. Rhonda K. Trousdale, is a board-certified endocrinologist, Chief of Endocrinology and Director of Research at NYC Health + Hospitals/Harlem, and a ten-year Multi-PI of the New York City *All of Us* Research Consortium with hands-on Researcher Workbench experience building cohorts, including a prior metabolic-syndrome use case. Because all data are de-identified and already available through the Workbench, the project requires no participant recruitment and no external data-use agreements.
+**i) Capacity:** As ten-year Multi-PI of the NYC All of Us Consortium (35,000+ enrolled, 9 FTE) I was selected for a beta Workbench use case decomposing metabolic syndrome into components, analogous to CKM staging. I am Division Chief and Director of Research at NYC H+H/Harlem. As the endocrinologist these patients reach after progressing, I build evidence for clinicians upstream, including 500+ residents I taught. Data are Workbench-ready: no recruitment or new collection.
 
 ## Percentage of time dedicated (applicant) — **[ACTION]**
 
@@ -48,15 +52,20 @@ Suggested **10–15%** (secondary-data analysis).
 
 ## Requested funding (`$##,###.00`, max $20,000) — **[ACTION]**
 
-Build a fair-market budget (~12-month secondary-data study: analyst/biostatistician effort + *All of Us* Workbench compute credits, PI effort, dissemination). Illustrative: **$18,000.00** ("Eighteen thousand US dollars").
+Fair-market budget for a ~12-month secondary-data study (analyst/biostatistician effort + *All of Us* Workbench compute credits, PI effort, dissemination). Illustrative: **$18,000.00** ("Eighteen thousand US dollars").
 
 ## Applicant biographical information (≤2 pages) — filled
 
-Full name, position title, the seven-row education/training table (Indiana University → Columbia Presbyterian fellowships), nine positions & honors, and six selected publications are populated in the `.docx` from Dr. Trousdale's NIH biosketch.
+Full name, position title, seven-row education/training table, nine positions & honors, and six selected publications, all populated from Dr. Trousdale's NIH biosketch.
 
 ---
 
-### What's filled vs. what you add
-- **Filled:** title; full a)–i) description (485/500 words); applicant name, qualifications, dates, years of practice, institution; full applicant biographical section.
-- **[ACTION] you add:** mailing address, phone/fax, email; finance officer and signing official; project start/end dates; % time; funding figure.
-- **Before sending:** keep the title ≤100 characters and the description ≤500 words after any edits; paste any figures directly into the single Word/PDF (the administrator accepts only one file). *Mentor bio is optional and left blank (the PI is senior; Dr. Eun is a collaborator, not a mentor).*
+## Highest-value open item before submission
+
+**Heading (h) asks for "collaboration with other CKM *allied* healthcare providers."** Both named supporters are internal-medicine/endocrine colleagues in the applicant's own institution. The reviewers flagged this as the single biggest remaining score risk, and the agents deliberately did **not** invent a supporter. **Recruit and name one family physician, nephrologist, pharmacist, or dietitian** who will confirm support — ideally an AAFP-member family physician, which also reinforces funder fit.
+
+## Other remaining actions
+- Administrative fields above (contact, finance officer, signatory, dates, % time, funding).
+- Confirm the description still counts ≤500 words in Word after any edit (current margin: 6 words).
+- Paste any figures directly into the single Word/PDF — the administrator accepts only one file.
+- *Mentor bio left blank (optional; the PI is senior and Dr. Eun is a collaborator, not a mentor).*
