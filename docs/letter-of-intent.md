@@ -4,7 +4,7 @@ This mirrors the official **REACH Awards LOI proposal form** (`REACH_LOI_proposa
 
 > Form rules: title ≤100 characters incl. spaces · description ≤500 words · 1-year project · max award **$20,000** · applicant bio ≤2 pages · mentor bio optional.
 >
-> **Verified:** title **95/100** characters · description **498/500** words · all nine headings a)–i) present and in order.
+> **Verified:** title **89/100** characters · description **491/500** words · all nine headings a)–i) present and in order.
 
 **Eligibility:** An **endocrinologist is eligible** — REACH covers "healthcare professionals, clinical researchers, fellows, scientists, and epidemiologists in the U.S. whose work focuses on CKM health." The marketing features family physicians, but written eligibility is broader. The submitting entity must not be for-profit.
 
@@ -16,7 +16,7 @@ This version was revised through a three-phase multi-agent review — see `multi
 
 ## 1. Title of proposed project (≤100 characters)
 
-**CKM Stage Transition, Not Events: Early GLP-1 Therapy in Stages 1-2 for Primary Care Prevention** *(95 characters.)*
+**Stage Transition, Not Events: Slowing CKM Progression with Early GLP-1 in Type 2 Diabetes** *(89 characters.)*
 
 ## 2–5. Applicant / institution / finance officer / signing official
 
@@ -26,23 +26,23 @@ Filled from biosketch: **name** (Rhonda K. Trousdale, MD), **qualifications** (M
 
 Start date **[choose]** · End date **[start + 12 months]**.
 
-## Description (498/500 words)
+## Description (491/500 words)
 
-**a) Project purpose:** Using NIH All of Us data, we will estimate whether initiating a GLP-1 receptor agonist (GLP-1 RA) is associated with movement to a lower cardiovascular-kidney-metabolic (CKM) stage, or slower progression, in adults at CKM stage 1-2: stage transition, an endpoint no pivotal GLP-1 RA trial measured.
+**a) Project purpose:** Using NIH All of Us data, we will estimate whether initiating a GLP-1 receptor agonist (GLP-1 RA) is associated with slower progression from cardiovascular-kidney-metabolic (CKM) stage 2 to stages 3-4, or regression of reversible CKM components, among adults with type 2 diabetes: stage transition, an endpoint no pivotal GLP-1 RA trial measured.
 
-**b) Rationale:** The 2026 AHA/ACC/ADA/ASN guideline makes preventing progression and promoting regression the goal of CKM care, yet SELECT, FLOW and SUMMIT enrolled stage 3-4 patients counting events; ongoing DASH-CKMH targets sex-based heterogeneity. Early stages in primary care remain unstudied. Since May and July 2026, Medicaid's BALANCE Model and Medicare's GLP-1 Bridge have expanded access for mostly stage 1-2 adults, scaling prescribing ahead of evidence.
+**b) Rationale:** The 2026 AHA/ACC/ADA/ASN guideline makes preventing progression and promoting regression the goal of CKM care, yet SELECT, FLOW and SUMMIT counted events in advanced disease and none tracked stage movement; ongoing DASH-CKMH targets sex-based heterogeneity. Stage 2 diabetes without established cardiovascular disease, primary care's core panel, is least studied, even as GLP-1 prescribing scales far ahead of trajectory evidence.
 
-**c) Objectives:** (1) Extend cross-sectional CKM staging into a serial, time-updated stage variable and count initiators; (2) estimate GLP-1 RA initiation's association with stage progression and regression; (3) test pre-specified modification by race/ethnicity and insurance.
+**c) Objectives:** (1) Extend cross-sectional CKM staging into a serial, time-updated stage variable and count initiators; (2) estimate GLP-1 RA initiation's association with stage progression and component regression; (3) test pre-specified modification by race/ethnicity and insurance.
 
-**d) Summary of methods:** Eligible: adults staged CKM 1-2 with baseline labs, no prior-year GLP-1 RA. Strategies: GLP-1 RA (tirzepatide included) versus DPP-4 inhibitor (no MACE benefit) in type 2 diabetes, otherwise versus non-incretin anti-obesity medication; a secondary comparator adds sulfonylureas, bracketing weight-gain bias. Time zero: first fill; 90-day grace period, clone-censoring and censoring weights remove immortal time; propensity-score overlap weighting approximates randomized assignment, SGLT2i balanced at baseline. Re-staged six-monthly; progression is primary, regression a lower stage at two consecutive assessments on reversible components; stage 3 by PREVENT risk; death competes (multistate model). Observational intention-to-treat; per-protocol censoring 60-day gaps; E-values bound unmeasured confounding.
+**d) Summary of methods:** Eligible: adults with type 2 diabetes staged CKM 2, baseline labs, no prior-year GLP-1 RA. Strategies: GLP-1 RA (tirzepatide included) versus DPP-4 inhibitor (no MACE benefit); a secondary comparator adds sulfonylureas, bracketing weight-gain bias. Time zero: first fill; 90-day grace period, clone-censoring and censoring weights remove immortal time; propensity-score overlap weighting approximates randomized assignment, SGLT2i balanced at baseline. Re-staged six-monthly; progression to stage 3-4 primary, component regression secondary; stage 3 by PREVENT risk; death competes (multistate model). Observational intention-to-treat; per-protocol censoring 60-day gaps; E-values bound unmeasured confounding.
 
-**e) Scope of project:** Two-thirds of staged All of Us participants fall at stages 1-2; from 400,000+ participants with linked records we draw initiators and comparators. We anticipate several thousand stage 2 and several hundred stage 1 initiators; stage 1 pools with stage 2 below 500. Records extend to about 2023, so we analyze earlier initiators; transitions accrue years before events.
+**e) Scope of project:** Published All of Us staging places roughly 46% of participants at CKM stage 2; from 400,000+ with linked records we draw the diabetic subset initiating therapy, anticipating several thousand. Records extend to about 2023, so we analyze earlier initiators; transitions accrue years before events.
 
-**f) Expected outcomes and impact:** Family physicians gain stage-specific progression and regression rates. An association robust to E-values would justify a randomized trial of earlier initiation; a robust null would argue against earlier use ahead of trial evidence, prioritizing stages 3-4. Our cohort includes the Black, Hispanic and lower-income adults carrying the heaviest cardiorenal burden, whom trials under-enroll.
+**f) Expected outcomes and impact:** Family physicians gain stage-specific progression and regression rates for the stage 2 diabetes panel they manage. An association robust to E-values would justify a randomized trial of earlier initiation; a robust null would argue against earlier use ahead of trial evidence. Our cohort includes the Black, Hispanic and lower-income adults carrying the heaviest cardiorenal burden, whom trials under-enroll. Non-diabetic obesity is a separate question we will address subsequently.
 
 **g) Plans to share information:** Audiences: family physicians and cardiorenal researchers. Abstracts at AAFP FMX and AHA Sessions (thousands of clinicians each); a practice brief; a one-page stage-transition chart; staging code released to thousands of All of Us investigators.
 
-**h) Collaboration:** Dr. Yong Eun, the board-certified primary care internist who sees these stage 1-2 patients at NYC H+H/Harlem and first-authored our Neurology (2026) semaglutide paper, supports this project and will co-lead the analysis; Dr. Marie S. Thearle adds cardiometabolic expertise.
+**h) Collaboration:** Dr. Yong Eun, the board-certified primary care internist who sees these stage 2 patients at NYC H+H/Harlem and first-authored our Neurology (2026) semaglutide paper, supports this project and will co-lead the analysis; Dr. Marie S. Thearle adds cardiometabolic expertise.
 
 **i) Capacity:** As ten-year Multi-PI of the NYC All of Us Consortium (35,000+ enrolled, 9 FTE) I was selected for a beta Workbench use case decomposing metabolic syndrome into components, analogous to CKM staging. I am Division Chief and Director of Research at NYC H+H/Harlem. As the endocrinologist these patients reach after progressing, I build evidence for clinicians upstream. Data are Workbench-ready: no recruitment or new collection.
 
@@ -83,6 +83,6 @@ Heading (h) asks for "collaboration with other CKM *allied* healthcare providers
 
 ## Other remaining actions
 - Administrative fields above (contact, finance officer, signatory, dates, % time, funding).
-- Confirm the description still counts ≤500 words in Word after any edit (current margin: 2 words).
+- Confirm the description still counts ≤500 words in Word after any edit (current margin: 9 words).
 - Paste any figures directly into the single Word/PDF — the administrator accepts only one file.
 - *Mentor bio left blank (optional; the PI is senior and Dr. Eun is a collaborator, not a mentor).*
