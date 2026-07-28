@@ -46,13 +46,28 @@ Start date **[choose]** · End date **[start + 12 months]**.
 
 **i) Capacity:** As ten-year Multi-PI of the NYC All of Us Consortium (35,000+ enrolled, 9 FTE) I was selected for a beta Workbench use case decomposing metabolic syndrome into components, analogous to CKM staging. I am Division Chief and Director of Research at NYC H+H/Harlem. As the endocrinologist these patients reach after progressing, I build evidence for clinicians upstream. Data are Workbench-ready: no recruitment or new collection.
 
-## Percentage of time dedicated (applicant) — **[ACTION]**
+## Percentage of time dedicated (applicant) — filled
 
-Suggested **10–15%** (secondary-data analysis).
+**10%** (secondary-data analysis). *Confirm this matches the effort you intend to commit.*
 
-## Requested funding (`$##,###.00`, max $20,000) — **[ACTION]**
+## Requested funding — filled
 
-Fair-market budget for a ~12-month secondary-data study (analyst/biostatistician effort + *All of Us* Workbench compute credits, PI effort, dissemination). Illustrative: **$18,000.00** ("Eighteen thousand US dollars").
+**$20,000.00** — "Twenty thousand US dollars" (program maximum for one year).
+
+### Itemized budget (for the full proposal; the form asks only for a total)
+
+| Line item | Basis | Amount | Status |
+|---|---|---|---|
+| *All of Us* Researcher Workbench cloud compute | $250/mo × 12 | **$3,000.00** | Confirmed |
+| AI-assisted code development (Claude Code Max $200/mo + API $50/mo) | $250/mo × 12 | **$3,000.00** | Confirmed |
+| Investigator protected time (PI 10% + co-investigator) | institutional salary rates | $10,000.00 | **TO CONFIRM** |
+| Open-access publication fee | 1 manuscript | $2,500.00 | **TO CONFIRM** |
+| Dissemination travel (AAFP FMX or AHA Sessions) | 1 meeting, 1 traveler | $1,500.00 | **TO CONFIRM** |
+| **TOTAL** | | **$20,000.00** | |
+
+**Compliance note on the AI line.** The *All of Us* Data User Code of Conduct prohibits downloading or removing participant-level data from the Researcher Workbench, so any AI/ML use on participant-level data must occur **inside** that environment; only aggregated summary statistics may be exported, and not where cell counts fall below 20. Budget and describe this line as **code development** — writing and reviewing analysis scripts, phenotype logic, and documentation — never as sending participant records to an external service. This funds an existing workflow: the applicant's biosketch describes building an AI-assisted coding program for residents and fellows working with large public databases.
+
+**Confirm before submitting:** (1) whether indirect costs / F&A are permitted and whether NYC H+H/Harlem would assess them — if charged, the direct lines must shrink to fit $20,000; (2) whether an individual software subscription is an allowable direct cost or must be procured institutionally; (3) salary rates and the PI/co-investigator split; (4) whether the target journal charges an open-access fee at all.
 
 ## Applicant biographical information (≤2 pages) — filled
 
