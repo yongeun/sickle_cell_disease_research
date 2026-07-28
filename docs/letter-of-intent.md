@@ -1,6 +1,6 @@
 # REACH Awards — Letter of Intent (mapped to the official template)
 
-This mirrors the official **REACH Awards LOI proposal form** (`REACH_LOI_proposal_filled.docx`), which has the research fields and applicant credentials filled in. Fields marked **[ACTION]** still need administrative details. Email the single Word/PDF to **REACHAwards@porterhousemedical.com** by **August 16, 2026**.
+This is the working copy of the official **REACH Awards LOI proposal form** (`REACH_LOI_proposal_filled.docx`), which has the research fields, applicant credentials, and funding fields filled in. Fields marked **[ACTION]** still need administrative details. Email the single Word/PDF to **REACHAwards@porterhousemedical.com** by **August 16, 2026**.
 
 > Form rules: title ≤100 characters incl. spaces · description ≤500 words · 1-year project · max award **$20,000** · applicant bio ≤2 pages · mentor bio optional.
 >
@@ -69,7 +69,7 @@ The form has **no budget field** — only a total — so this basis line is past
 
 > *Basis (12 months): All of Us Researcher Workbench cloud compute $3,000.00 ($250/month); AI-assisted code development $3,000.00 ($250/month); investigator protected time $10,000.00; open-access publication $2,500.00; dissemination travel $1,500.00.*
 
-The full table above is for internal review and the eventual full proposal.
+The full table above is for the eventual full proposal.
 
 **Compliance note on the AI line.** The *All of Us* Data User Code of Conduct prohibits downloading or removing participant-level data from the Researcher Workbench, so any AI/ML use on participant-level data must occur **inside** that environment; only aggregated summary statistics may be exported, and not where cell counts fall below 20. Budget and describe this line as **code development** — writing and reviewing analysis scripts, phenotype logic, and documentation — never as sending participant records to an external service. This funds an existing workflow: the applicant's biosketch describes building an AI-assisted coding program for residents and fellows working with large public databases.
 
