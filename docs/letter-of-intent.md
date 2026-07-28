@@ -54,7 +54,7 @@ Start date **[choose]** · End date **[start + 12 months]**.
 
 **$20,000.00** — "Twenty thousand US dollars" (program maximum for one year).
 
-### Itemized budget (for the full proposal; the form asks only for a total)
+### Itemized budget
 
 | Line item | Basis | Amount | Status |
 |---|---|---|---|
@@ -64,6 +64,12 @@ Start date **[choose]** · End date **[start + 12 months]**.
 | Open-access publication fee | 1 manuscript | $2,500.00 | **TO CONFIRM** |
 | Dissemination travel (AAFP FMX or AHA Sessions) | 1 meeting, 1 traveler | $1,500.00 | **TO CONFIRM** |
 | **TOTAL** | | **$20,000.00** | |
+
+The form has **no budget field** — only a total — so this basis line is pasted into the form immediately after the amount in words, since REACH awards are made on the **fair market value** of the research and a bare total asserts a figure without justifying it:
+
+> *Basis (12 months): All of Us Researcher Workbench cloud compute $3,000.00 ($250/month); AI-assisted code development $3,000.00 ($250/month); investigator protected time $10,000.00; open-access publication $2,500.00; dissemination travel $1,500.00.*
+
+The full table above is for internal review and the eventual full proposal.
 
 **Compliance note on the AI line.** The *All of Us* Data User Code of Conduct prohibits downloading or removing participant-level data from the Researcher Workbench, so any AI/ML use on participant-level data must occur **inside** that environment; only aggregated summary statistics may be exported, and not where cell counts fall below 20. Budget and describe this line as **code development** — writing and reviewing analysis scripts, phenotype logic, and documentation — never as sending participant records to an external service. This funds an existing workflow: the applicant's biosketch describes building an AI-assisted coding program for residents and fellows working with large public databases.
 
