@@ -4,7 +4,7 @@ This mirrors the official **REACH Awards LOI proposal form** (`REACH_LOI_proposa
 
 > Form rules: title ≤100 characters incl. spaces · description ≤500 words · 1-year project · max award **$20,000** · applicant bio ≤2 pages · mentor bio optional.
 >
-> **Verified:** title **89/100** characters · description **479/500** words · all nine headings a)–i) present and in order.
+> **Verified:** title **89/100** characters · description **492/500** words · all nine headings a)–i) present and in order.
 
 **Eligibility:** An **endocrinologist is eligible** — REACH covers "healthcare professionals, clinical researchers, fellows, scientists, and epidemiologists in the U.S. whose work focuses on CKM health." The marketing features family physicians, but written eligibility is broader. The submitting entity must not be for-profit.
 
@@ -26,7 +26,7 @@ Filled from biosketch: **name** (Rhonda K. Trousdale, MD), **qualifications** (M
 
 Start date **[choose]** · End date **[start + 12 months]**.
 
-## Description (479/500 words)
+## Description (492/500 words)
 
 **a) Project purpose:** Using NIH All of Us data, we will estimate whether initiating a GLP-1 receptor agonist (GLP-1 RA) is associated with slower progression from cardiovascular-kidney-metabolic (CKM) stage 2 to stages 3-4 among adults with type 2 diabetes: stage transition, an endpoint no pivotal GLP-1 RA trial measured.
 
@@ -36,7 +36,7 @@ Start date **[choose]** · End date **[start + 12 months]**.
 
 **d) Summary of methods:** Eligible: adults with type 2 diabetes staged CKM 2, baseline labs, no prior-year GLP-1 RA. Strategies: GLP-1 RA (tirzepatide included) versus DPP-4 inhibitor (no MACE benefit); a secondary comparator adds sulfonylureas, bracketing weight-gain bias. Time zero: first fill; 90-day grace period, clone-censoring and censoring weights remove immortal time; propensity-score overlap weighting approximates randomized assignment, SGLT2i balanced at baseline. Stage re-assessed six-monthly; progression to stage 3-4 is primary, with kidney and cardiovascular pathways analyzed separately; stage 3 by PREVENT risk; death competes (multistate model). Observational intention-to-treat; per-protocol censoring 60-day gaps; E-values bound unmeasured confounding.
 
-**e) Scope of project:** Published All of Us staging places roughly 46% of participants at CKM stage 2; from 400,000+ with linked records we draw the diabetic subset initiating therapy, anticipating several thousand. Records extend to about 2023, so we analyze earlier initiators; transitions accrue years before events.
+**e) Scope of project:** Our prior All of Us emulation in type 2 diabetes yielded 2,586 semaglutide and 7,627 comparator initiators through October 2023. That is a floor: we include all GLP-1 RAs, and Curated Data Repository v9 now covers 747,000+ participants with records through January 2025. Restricting to CKM stage 2 lowers counts; Objective 1 reports exact numbers and power.
 
 **f) Expected outcomes and impact:** Family physicians gain stage-specific progression rates for the stage 2 diabetes panel they manage. An association robust to E-values would justify a randomized trial of earlier initiation; a robust null would argue against earlier use ahead of trial evidence. Our cohort includes the Black, Hispanic and lower-income adults carrying the heaviest cardiorenal burden, whom trials under-enroll.
 
@@ -71,7 +71,7 @@ Start date **[choose]** · End date **[start + 12 months]**.
 
 ## Applicant biographical information (≤2 pages) — filled
 
-Full name, position title, seven-row education/training table, nine positions & honors, and six selected publications, all populated from Dr. Trousdale's NIH biosketch.
+Full name, position title, seven-row education/training table, nine positions & honors, and seven selected publications, all populated from Dr. Trousdale's NIH biosketch.
 
 ---
 
@@ -83,6 +83,6 @@ Heading (h) asks for "collaboration with other CKM *allied* healthcare providers
 
 ## Other remaining actions
 - Administrative fields above (contact, finance officer, signatory, dates, % time, funding).
-- Confirm the description still counts ≤500 words in Word after any edit (current margin: 21 words).
+- Confirm the description still counts ≤500 words in Word after any edit (current margin: 8 words).
 - Paste any figures directly into the single Word/PDF — the administrator accepts only one file.
 - *Mentor bio left blank (optional; the PI is senior and Dr. Eun is a collaborator, not a mentor).*
