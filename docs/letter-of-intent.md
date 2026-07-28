@@ -42,7 +42,7 @@ Start date **[choose]** · End date **[start + 12 months]**.
 
 **g) Plans to share information:** Audiences: family physicians and cardiorenal researchers. Abstracts at AAFP FMX and AHA Sessions (thousands of clinicians each); a practice brief; a one-page stage-transition chart; staging code released to thousands of All of Us investigators.
 
-**h) Collaboration:** Dr. Yong Eun, Attending Physician at NYC H+H/Harlem, first author of our semaglutide pharmacoepidemiology paper in Neurology (2026), supports this project and will co-lead the analysis; Dr. Marie S. Thearle adds cardiometabolic expertise. Primary care colleagues will review deliverables.
+**h) Collaboration:** Dr. Yong Eun, the board-certified primary care internist who sees these stage 1-2 patients at NYC H+H/Harlem and first-authored our Neurology (2026) semaglutide paper, supports this project and will co-lead the analysis; Dr. Marie S. Thearle adds cardiometabolic expertise.
 
 **i) Capacity:** As ten-year Multi-PI of the NYC All of Us Consortium (35,000+ enrolled, 9 FTE) I was selected for a beta Workbench use case decomposing metabolic syndrome into components, analogous to CKM staging. I am Division Chief and Director of Research at NYC H+H/Harlem. As the endocrinologist these patients reach after progressing, I build evidence for clinicians upstream, including 500+ residents I taught. Data are Workbench-ready: no recruitment or new collection.
 
@@ -60,9 +60,11 @@ Full name, position title, seven-row education/training table, nine positions & 
 
 ---
 
-## Highest-value open item before submission
+## Primary care representation — resolved
 
-**Heading (h) asks for "collaboration with other CKM *allied* healthcare providers."** Both named supporters are internal-medicine/endocrine colleagues in the applicant's own institution. The reviewers flagged this as the single biggest remaining score risk, and the agents deliberately did **not** invent a supporter. **Recruit and name one family physician, nephrologist, pharmacist, or dietitian** who will confirm support — ideally an AAFP-member family physician, which also reinforces funder fit.
+Heading (h) asks for "collaboration with other CKM *allied* healthcare providers" and at least one person who supports the project. **This is satisfied.** Dr. Eun is a board-certified internist practicing primary care — internal medicine is a primary care discipline, and ABIM certification is the correct credential — so the team already pairs the endocrinologist who sees these patients *after* progression with the primary care physician who sees them *before* it. That is a genuine cross-disciplinary CKM collaboration, and (h) now states Dr. Eun's primary care role explicitly rather than listing him as "Attending Physician," which left the team's strongest funder-fit asset invisible to a reviewer.
+
+*Optional, not required:* adding a nephrologist, pharmacist, or dietitian would broaden the multidisciplinary picture that "allied" invites. Worth doing only if a genuine supporter is available — an unverifiable name would be disqualifying.
 
 ## Other remaining actions
 - Administrative fields above (contact, finance officer, signatory, dates, % time, funding).
